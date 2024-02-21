@@ -1,6 +1,7 @@
 ---
 title: "Finley Malloc"
 about:
+  id: hero-heading
   template: jolla
   links:
     - icon: twitter
@@ -10,6 +11,10 @@ about:
       text: Github
       href: https://github.com
 ---
+
+### This content appears above the formatted about page content.
+
+:::{#hero-heading}
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
@@ -25,4 +30,8 @@ B.A in Economics | Sept 2007 - June 2011
 
 Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
+
+### This content appears below the formatted about page content.
